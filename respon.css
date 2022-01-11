@@ -1,22 +1,17 @@
 @media screen and (max-width:1024px) {
-    .call{ 
-        margin-top: -51px;
+   .call{ 
+        margin-top: - 51px;
         float: right;
         text-align: right;
-        font-size: 20px;
+        font-size: 2px;
     }
     
     .breadcrumb{
         margin-left: 40px
     }
-    .card{
-        margin-left: 40px;
-        margin-top: 25px;
-        padding-top: 25px;
-        padding-left: 1px;
-    }
+    
     .bts{
-        margin-left: 5px;
+        margin-left: -12px;
     }
     .gbt{
         font-size: 12px;
@@ -24,69 +19,73 @@
     .bwrd{
        display: none;
     }
-    .brt{
-        width: 100%;
+   .brt{
+        width: 130px;
         font-size: 10px;
-     
-    }
+  
+   }
   .fa-circle{
-      display: none;
-  }
+     font-size: 5px;
+   }
   .hed{
       font-size: 17px;
-  }
+      margin-left: 0px;
+   }
   .bigbt{
-        margin-left: 15px;
+        margin-left: 0px;
         font-weight: 400; 
-        margin-top: 10px;
+        margin-top: 0px;
         font-size: 10px;
     }
     .hpr{
-        margin-left: 15px;
+        margin-left: 0px;
         margin-top: 10px;
         font-size: 12px;
     }
     .box{
-       margin-left: 0px;
-      
+       margin-left: -25px;
+  
     }
     .cd1{
-        margin-top: 15px;
-        margin-left: 15px;
-        padding: 5px;
+        margin-top: 0px;
+        margin-left: 35px;
+       
         width: 100%;
       
     }
+    .rlft{
+       margin-left: 25px;}
     .rddd{
-        padding: 0px;
-        margin-top: 25px;
+        margin-left: 25px;
     }
     .rd{
       
-     margin-top: -20px;
-        margin-left: -10px;
+     margin-top: 0px;
+        margin-left: 0px;
         
     }
     .rad{
       
-        width: 30px;
+        width: 50px;
         height: auto;
-        margin-left: -10px;
-       
+        margin-left: 0px;
+        padding: 2px;
+       border-style: line;
     }
+
     
     
     .cd2{
-       margin-top: 5px;
+     
         width: 100%;
-        border-left-style:dashed;
+        border-left-style:none;
         
      
     }
     
     .cd3{
-        border-color: gray;
-        border-left-style: dashed;
+
+        border-left-style:none;
         width: 100%;
      padding: 5px;
     
@@ -100,40 +99,42 @@
            border: none;
            width:100px;
        }
-       #db{
+ #db{
         width:100%;
         border: none;
         color:  rgb(161, 161, 161);
     }
+
+
     .fbox{
-    margin-top: 10px;
-      margin-left: 15px;
-        padding-left: 1px;
-       height: auro;
-      font-size: 12px;
-        width: 100%;
-      border: 1px solid gray;
+       margin-top: 0px;
+       margin-left: 15px;
+       padding-left: 1px;
+       height: 45px;
+       font-size: 12px;
+       width: 75%;
+       border: 1px solid gray;
     }
     .lbox{
         margin-left: 15px;
     }
     .qbt{
-        margin-left: 10px;
-        margin-top: 140px;
-       background-color:rgb(24, 245, 124);
-       font-size: 10px; 
+        margin-left: 24px;
+        margin-top: 0px;
+        background-color:rgb(24, 245, 124);
+        font-size: 10px; 
     }
     
     .whap{
         color: rgb(13, 209, 111);
         font-weight: bold;
-        font-size: 20px;
+        font-size: 15px;
     }
     .wht{
         padding: 5px;
     }
     .whht{
-        font-size: 12px;
+        font-size: 10px;
     }
    
     .fcd{
@@ -141,7 +142,7 @@
     }
     .fcdr{
        float: right;
-       width:100%;
+       width:75%;
        clear: both;
        font-size: 12px;
 
@@ -157,54 +158,124 @@
         font-size: 20px;
     }
     .cdaa{
-        padding: auto;
-        border-color: gray;
-        border-bottom-style: dashed;
+        border-bottom-style: none;
     }
-    .ftcd{
-        margin:0px;
-     
-     
-        
-    }
-    .fcd1{
-        width: 100%;
-      margin-left: 0px;
-      margin-top: 0px;
-      height: auto;
-    }
-    
-    .fcd2{
-        margin-left: 0px;
-        width: 100%;
-        border-color: gray;
-    border-left-style: none;
-    
-       
-    }
-    
+ 
     .fimg{
+        
         width: 100%;
         height: auto;
         margin-left: 0px;
     }
     .about{
-        font-size: 15px;
-    margin-top: -10px;
+        font-size: 22px;
+       margin-top: 0px;
         font-weight: bolder;
         color: rgb(4, 152, 221);
+    }
+    .fcd2{
+        width: 270px;
+        
+    border-left-style: none;
+    border-top-style: none;
+       
     }
     .fabt{
         margin-left: 0px;
     }
     .abp{
         color: rgb(4, 152, 221);
-        width: 100%;
-        font-size: 7px;
+        width:250px;
+        font-size: 14px;
     }
     .ic{
         color: #000;
-        margin-left: 5px;
+        margin-left: 10px;
+        font-size: 35px;
+        text-align: center;
+    }
+    .lis{
+        color: rgb(4, 152, 221);
+        width: 100%;
+        list-style: none;
+        height: auto;
+        margin-top: 2px;
+        margin-left: 30px;
+      
+    }
+    .lts{
+        margin-top: 10px;
+        text-align: left;
+      
+      
+        
+    }
+}
+@media screen and (max-width:500px) {
+
+.abp{
+        color: rgb(4, 152, 221);
+        width: 100%;
         font-size: 15px;
+    }
+    .cdaa{
+        padding: auto;
+        border-color: gray;
+     
+    }
+    .ftrr{
+        margin-left: 10px;
+        margin-top: 50px;
+       }
+       .fcd1{
+        width: 100%;
+      margin-left: 10px;
+      margin-top: 0px;
+      height: auto;
+    }
+    .fcd2{
+        margin-left: 0px;
+        width: 100%;
+        height: auto;
+    border-left-style: none;
+    border-top-style: dashed;
+       
+    }
+    .pay{
+        margin-top: 4px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-bottom: 30px;
+         border-color: gray;
+        border-bottom-style: dashed;
+        border-top-style: dashed;
+    
+    }
+    .plog{
+        width: 100px;
+        height: 50px;
+        margin-left: 8px;
+        margin-top: 15px;
+    }
+    .vas{
+        margin-top: 15px;
+        margin-left: 8px;
+        width: 100px;
+        height: 50px;
+    }
+    .secur{
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+    .sec{
+        font-size: 25px;
+    }
+    .rlg{
+        width: 100px;
+        height: 50px;
+        margin-top: -35px;
+        
+        float: right;
+        text-align: right;
     }
 }
