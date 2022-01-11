@@ -1,0 +1,210 @@
+@media screen and (max-width:1024px) {
+    .call{ 
+        margin-top: -51px;
+        float: right;
+        text-align: right;
+        font-size: 20px;
+    }
+    
+    .breadcrumb{
+        margin-left: 40px
+    }
+    .card{
+        margin-left: 40px;
+        margin-top: 25px;
+        padding-top: 25px;
+        padding-left: 1px;
+    }
+    .bts{
+        margin-left: 5px;
+    }
+    .gbt{
+        font-size: 12px;
+    }
+    .bwrd{
+       display: none;
+    }
+    .brt{
+        width: 100%;
+        font-size: 10px;
+     
+    }
+  .fa-circle{
+      display: none;
+  }
+  .hed{
+      font-size: 17px;
+  }
+  .bigbt{
+        margin-left: 15px;
+        font-weight: 400; 
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    .hpr{
+        margin-left: 15px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .box{
+       margin-left: 0px;
+      
+    }
+    .cd1{
+        margin-top: 15px;
+        margin-left: 15px;
+        padding: 5px;
+        width: 100%;
+      
+    }
+    .rddd{
+        padding: 0px;
+        margin-top: 25px;
+    }
+    .rd{
+      
+     margin-top: -20px;
+        margin-left: -10px;
+        
+    }
+    .rad{
+      
+        width: 30px;
+        height: auto;
+        margin-left: -10px;
+       
+    }
+    
+    
+    .cd2{
+       margin-top: 5px;
+        width: 100%;
+        border-left-style:dashed;
+        
+     
+    }
+    
+    .cd3{
+        border-color: gray;
+        border-left-style: dashed;
+        width: 100%;
+     padding: 5px;
+    
+    
+    }
+    .icon{
+        font-size: 14px;
+    }
+    #fname{
+        padding: 1px;
+           border: none;
+           width:100px;
+       }
+       #db{
+        width:100%;
+        border: none;
+        color:  rgb(161, 161, 161);
+    }
+    .fbox{
+    margin-top: 10px;
+      margin-left: 15px;
+        padding-left: 1px;
+       height: auro;
+      font-size: 12px;
+        width: 100%;
+      border: 1px solid gray;
+    }
+    .lbox{
+        margin-left: 15px;
+    }
+    .qbt{
+        margin-left: 10px;
+        margin-top: 140px;
+       background-color:rgb(24, 245, 124);
+       font-size: 10px; 
+    }
+    
+    .whap{
+        color: rgb(13, 209, 111);
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .wht{
+        padding: 5px;
+    }
+    .whht{
+        font-size: 12px;
+    }
+   
+    .fcd{
+        padding: 5px;
+    }
+    .fcdr{
+       float: right;
+       width:100%;
+       clear: both;
+       font-size: 12px;
+
+    }
+    .ccrd{
+        width: auto;
+        padding: auto;
+        height: auto;
+    }
+    .cda{
+        padding: 1px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .cdaa{
+        padding: auto;
+        border-color: gray;
+        border-bottom-style: dashed;
+    }
+    .ftcd{
+        margin:0px;
+     
+     
+        
+    }
+    .fcd1{
+        width: 100%;
+      margin-left: 0px;
+      margin-top: 0px;
+      height: auto;
+    }
+    
+    .fcd2{
+        margin-left: 0px;
+        width: 100%;
+        border-color: gray;
+    border-left-style: none;
+    
+       
+    }
+    
+    .fimg{
+        width: 100%;
+        height: auto;
+        margin-left: 0px;
+    }
+    .about{
+        font-size: 15px;
+    margin-top: -10px;
+        font-weight: bolder;
+        color: rgb(4, 152, 221);
+    }
+    .fabt{
+        margin-left: 0px;
+    }
+    .abp{
+        color: rgb(4, 152, 221);
+        width: 100%;
+        font-size: 7px;
+    }
+    .ic{
+        color: #000;
+        margin-left: 5px;
+        font-size: 15px;
+    }
+}

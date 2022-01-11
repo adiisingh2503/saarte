@@ -1,0 +1,353 @@
+header{
+    background: white;
+    
+}
+.navlogo{
+margin-left: -125px;
+}
+.lgmg{
+    height: 100px;
+    
+}
+.navbt{ 
+    margin-top: 25px;
+   
+    color: rgb(4, 152, 221);
+    font-weight: bold;
+   float: right;
+    text-align: right;
+    font-size: 23px;
+    display: inline;
+    text-decoration: none;
+
+}
+.call{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.nvbg{
+    background-color: white;
+}
+
+.breadcrumb{
+    margin-left: 115px;
+    margin-top: 25px;
+}
+
+body{
+  
+    background-color: rgb(240, 240, 240);
+
+}
+.hdd{
+    margin-top: 10px;
+}
+.bts{
+    margin-left: 25px;
+
+}
+.gbt{
+    font-size: 20px;
+    background-color:  rgb(24, 245, 124);
+}
+.hbt{
+    text-justify: auto;
+    display:inline;
+
+    text-align: right;
+}
+.bwrd{
+   
+    margin-left: 5px;
+    font-size:15px;
+    clear: both;
+    width: 175px;
+}
+.hed{
+    margin-left: 25px;
+    margin-top: 15px;
+    
+
+}
+.my{
+    color: rgb(36, 235, 36);
+}
+.bigbt{
+    background-color: rgb(63, 150, 231);
+    color: white;
+    margin-left: 25px;
+    border-radius: 15px 5px 15px 15px;
+    font-weight: 450; 
+    margin-top: 10px;
+    font-size: 16px;
+}
+.hpr{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.box{
+    margin-left: -25px;
+    margin-right: -25px;
+    padding: 10px;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-color: gray;
+  
+}
+.rddd{
+    height: 85px;
+}
+.rad{
+    margin-top: 70px;
+    margin: 25px;
+    padding: 1px;
+    width: 60px;
+    height: 80px;
+    border-style: solid;
+    border-color: gray;
+}
+.mrad{
+    margin-left: 50px;
+    margin-top: 80px;
+ 
+}
+
+
+
+
+.cd1{
+    width: 25%;
+
+}
+.cd2{
+    margin: auto;
+    padding: 15px;
+    width: 60%;
+    border-color: gray;
+    border-left-style: dashed;
+    
+ 
+}
+
+.cd3{
+    border-color: gray;
+    border-left-style: dashed;
+    width: 15%;
+    padding: 15px;
+
+
+}
+
+.fbox{
+    margin-top: 12px;
+    padding-left: 5px;
+    padding: 3px;
+   height: 60px;
+  
+    width: 270px;
+  border: 1px solid gray;
+}
+.lbox{
+    margin-left: 60px;
+}
+.qbt{
+    margin-left: 20px;
+    margin-top: 15px;
+   background-color:rgb(24, 245, 124); 
+}
+#fname{
+ padding: 0px;
+    border: none;
+    width:230px;
+}
+#db{
+    width:250px;
+    border: none;
+    color:  rgb(161, 161, 161);
+}
+.icon{
+    font-size: 24px;
+}
+
+.ina{
+    color: rgb(4, 152, 221);
+    font-weight: bold;
+}
+.whap{
+    color: rgb(13, 209, 111);
+    font-weight: bold;
+    font-size: 20px;
+}
+.wht{
+    padding: 15px;
+}
+.fcd{
+    padding: 15px;
+}
+.fcdr{
+   float: right;
+   width:260px;
+   clear: both;
+   text-align: right;
+}
+
+.brt{
+    width: 200px;
+    float: right;
+    text-align: right;
+    color: rgb(24, 238, 59);
+}
+.cdot{
+    margin-top: 75px;
+}
+.ccrd{
+    width: auto;
+    height: auto;
+    
+ 
+}
+.cda{
+    padding: 15px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.cdaa{
+    border-color: gray;
+    border-bottom-style: dashed;
+}
+
+    
+
+.ftrr{
+ margin-left: 10px;
+ margin-top: 50px;
+}
+.fcd1{
+ width: 40%;
+
+  margin-top: -40px;
+  height: auto;
+}
+
+.fcd2{
+    width: 20%;
+    border-color: gray;
+    border-left-style: dashed;
+}
+
+.fimg{
+    width: 250px;
+    height: 100px;
+    margin-left: -109px;
+}
+.about{
+    font-size: 25px;
+
+    font-weight: bolder;
+    color: rgb(4, 152, 221);
+}
+.fabt{
+    margin-left: -58px;
+}
+.abp{
+    color: rgb(4, 152, 221);
+    width: 350px;
+}
+.lis{
+    color: rgb(4, 152, 221);
+    width: 250px;
+    list-style: none;
+    height: 450px;
+    margin-top: 2px;
+    margin-left: 30px;
+  
+}
+.lts{
+    margin-top: 10px;
+    text-align: left;
+    
+}
+.ic{
+    color: #000;
+    margin-left: 5px;
+    font-size: 25px;
+}
+
+ 
+  
+
+.pay{
+    margin-top: 4px;
+    margin-left: -125px;
+    margin-right: -125px;
+    padding-bottom: 30px;
+     border-color: gray;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+
+}
+.fpm{
+    margin-left: 61px;
+    margin-top: 20px;
+}
+.payh{
+    font-size: 25px;
+  
+}
+.vas{
+
+    width: 100px;
+    height: 40px;
+
+
+}
+.plog{
+    width: 100px;
+    height: 40px;
+    margin-left: 5px;
+}
+.lpr{
+    margin-top: 30px;
+    margin-left: 3px;
+    margin-right: 100px;
+    color: rgb(4, 152, 221);
+  
+}
+.lpr1{
+    padding-right: -20px;
+    float: right;
+    color: rgb(4, 152, 221);
+    margin-top: 30px;
+    text-align: right;
+  
+}
+.sec{
+ 
+    float: right;
+    text-align: right;
+
+
+}
+.secur{
+    margin-right: 110px;
+    margin-top: 20px;
+}
+.rlg{
+    width: 100px;
+    height: 40px;
+    margin-top: -35px;
+    
+    float: right;
+    text-align: right;
+
+}
+
+.cont{
+    margin-top: 25px;
+    padding: 25px;
+}
+.hhh{
+    margin-left: -20px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
